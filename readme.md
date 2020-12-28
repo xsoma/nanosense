@@ -1,6 +1,6 @@
 
 
-## exposure fix (this cheat suck like lumihook, but ok)
+## lumihook copypasta aka lumihook fixed
 > internal rage and legit cheat for cs:go
 
 ## "soma projects" community servers
