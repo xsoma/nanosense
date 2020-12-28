@@ -1,0 +1,6 @@
+how to compile this edgy shit:
+
+- first of all, goto build, clean solution.
+- set the settings same as at settings.png
+- set the debug to, stable/x86
+
