@@ -1,6 +1,6 @@
 
 
-## lumihook copypasta aka lumihook fixed
+## nanosense
 > internal rage and legit cheat for cs:go
 
 ## "soma projects" community servers
